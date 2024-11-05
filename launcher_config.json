@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/umbraverse/UmbraVer1/releases/download/1.0.6/client-to-update.zip",
+	"clientFolder": "Umbra",
+	"newClientUrl" : "https://github.com/umbraverse/UmbraVer1/releases/download/1.0.0/client-to-update.zip",
 	"clientExecutable": "umbra.exe"
 }
